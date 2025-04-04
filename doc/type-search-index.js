@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"learning","l":"Attribute"},{"p":"learning","l":"BinaryClassExample"},{"p":"learning","l":"BinaryClassSet"},{"p":"learning","l":"DecisionTree"},{"p":"learning","l":"KNearestNeighbor"}];updateSearchResults();

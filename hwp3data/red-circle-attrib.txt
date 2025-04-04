@@ -1,0 +1,3 @@
+Color	blue	green	red	yellow
+Size	small	large
+Shape	circle	square	triangle
