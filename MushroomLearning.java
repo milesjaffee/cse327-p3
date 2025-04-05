@@ -78,7 +78,7 @@ class MushroomLearning {
                 if (predicted == example.getClassification()) {
                     correct++;
                 } else {
-
+                    System.out.println("Wrong prediction on example " + example + ": incorrectly predicted " + predicted);
                 }
             }
             double accuracy = (double) correct / testSet.size() * 100;
